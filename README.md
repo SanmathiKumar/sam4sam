@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam short for Sanmathi [@sam4sam]
+- 👋 Hi, I’m Sam short for Sanmathi
 - 👀 I’m interested in programming specifically python and I'm an eager Data Enthusiast.
 - 🌱 I’m currently learning Machine Learning and Data Processing.
 - 💞️ I’m looking to collaborate on freelance projects on data wrangling, web scraping or Data analysis.
